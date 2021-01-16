@@ -5,7 +5,7 @@
 <img align='right' src="https://i.imgur.com/71cWPDR.png" height='120' />
 
 - #### AmongUs Character in CSS 💪🏻
-- #### Scrumaniac (Website to do Retros and Planning Poker) 🚀
+- #### Trabalhometro - Lançamento de ponto com react 🚀
 - #### Learning Frontend stuff... 🤯
 
 <br/>
