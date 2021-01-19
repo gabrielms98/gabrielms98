@@ -6,8 +6,8 @@
 
 <img align='right' src="https://i.imgur.com/MpqbB5l.png" height='120' margin-right='10'/>
 
-- #### AmongUs Character in CSS 💪🏻
-- #### Trabalhometro - Lançamento de ponto com react 🚀
+- #### [AmongUs](https://github.com/gabrielms98/AmongUsCss) Character in CSS 💪🏻
+- #### [Trabalhometro](https://github.com/gabrielms98Trabalhometro) - Lançamento de ponto com react 🚀
 - #### Learning Frontend stuff... 🤯
 
 <br/>
