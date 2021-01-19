@@ -4,6 +4,8 @@
 <h3>Currently working on...</h3>
 <img align='right' src="https://i.imgur.com/71cWPDR.png" height='120' />
 
+<img align='right' src="https://i.imgur.com/MpqbB5l.png" height='120' margin-right='10'/>
+
 - #### AmongUs Character in CSS 💪🏻
 - #### Trabalhometro - Lançamento de ponto com react 🚀
 - #### Learning Frontend stuff... 🤯
