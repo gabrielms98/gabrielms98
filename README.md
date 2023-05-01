@@ -7,8 +7,7 @@
 <img align='right' src="https://i.imgur.com/MpqbB5l.png" height='120' margin-right='10'/>
 
 - #### [Portfolio](https://github.com/gabrielms98/termfolio) Portfolio as a terminal prompt 💪🏻
-- #### [Checkout Queue](https://github.com/gabrielms98/checkout-queue) - Learning react 🚀
-- #### Learning Frontend stuff... 🤯
+- #### Going over rust
 
 <br/>
 
