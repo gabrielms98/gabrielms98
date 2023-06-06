@@ -6,7 +6,7 @@
 
 <img align='right' src="https://i.imgur.com/MpqbB5l.png" height='120' margin-right='10'/>
 
-- #### [Portfolio](https://github.com/gabrielms98/termfolio) Portfolio as a terminal prompt 💪🏻
+- #### [Portfolio](https://gabrielms.dev) Portfolio as a terminal prompt 💪🏻
 - #### Going over rust
 
 <br/>
